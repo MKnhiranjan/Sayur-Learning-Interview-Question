@@ -1,0 +1,21 @@
+Class: InstagramPost
+
+Properties:
+
+- id (private): unique identifier for the post
+- user (private): username of the post author
+- image (public): image data or URL
+- caption (public): text caption for the post
+- likes (public): number of likes on the post
+- comments (public): list of comments on the post
+- timestamp (private): timestamp when the post was created
+
+Functions:
+
+- * constructor(user, image, caption)* (public): creates a new post with the given user, image, and caption
+- like() (public): increments the likes count
+- comment(text) (public): adds a new comment to the post
+- getLikes() (public): returns the current likes count
+- getComments() (public): returns the list of comments
+- getUser() (public): returns the username of the post author
+- getTimestamp() (public): returns the timestamp when the post was created
