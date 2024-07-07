@@ -1,0 +1,6 @@
+This is a sample essay. The purpose of this essay is to demonstrate how to count the frequency of words in an essay. 
+An essay is a piece of writing that describes a particular topic. In this sample essay, we will count the frequency of each word. 
+This essay serves as an example for understanding word frequency counting in Java.
+
+Java is a popular programming language. Using Java, we can create a program to count the frequency of words in any given text.
+This sample text is an example to show how Java can be used to solve real-world problems. 
